@@ -1,0 +1,35 @@
+{
+  "name": "playground",
+  "version": "0.1.0",
+  "description": "test project template",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/playground.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/playground"
+  },
+  "homepage": "https://github.com/akileez/playground",
+  "bugs": {
+    "url": "https://github.com/akileez/playground/issues"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "benchmark": "2.0.0",
+    "toolz": "github:akileez/toolz"
+  },
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
