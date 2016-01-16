@@ -1,6 +1,6 @@
 {
   "name": "playground",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "test project template",
   "main": "index.js",
   "scripts": {},
@@ -30,6 +30,11 @@
   "files": [
     "LICENSE",
     "index.js",
-    "README.md"
+    "README.md",
+    "benchmark",
+    "documentation",
+    "examples",
+    "tests",
+    "versions"
   ]
 }
